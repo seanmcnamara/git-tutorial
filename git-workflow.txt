@@ -1,0 +1,9 @@
+#Local workflow
+1. Changes your files. 
+2. Add them to the stage.
+3. Commit the changes.
+
+# edit files
+$ git add .
+$ git commit -m 'Message here.'
+
