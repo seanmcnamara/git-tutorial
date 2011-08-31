@@ -10,3 +10,7 @@ git add # Adds all of the current changes to your stage (index).
 
 git checkout # Gets files from your .git repository. Can be used to revert to the last committed version. Can be used to switch branches. 
 
+git diff # show the what has changed in the file. 
+    + are all the lines that have been added.
+    - indicates the lines that have been removed.
+    % placeholder for seeing a -
