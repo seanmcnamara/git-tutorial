@@ -1,1 +1,9 @@
 git init . #creates an empty git repository.
+
+git status #lets you know if your repository is clean. Lets state of the files to be commited. It shows you all of your current changes. 
+
+git commit # Commmits all of the current changes that have been added to your index. 
+
+git log # Shows the history of all of your commits. 
+
+git add # Adds all of the current changes to your stage (index). 
