@@ -13,4 +13,13 @@ git checkout # Gets files from your .git repository. Can be used to revert to th
 git diff # show the what has changed in the file. 
     + are all the lines that have been added.
     - indicates the lines that have been removed.
-    % placeholder for seeing a -
+    
+git branch tutorial-branching #creates the branch named tutorial-branching
+
+git branch #show you all of the branches - () and * indicate which branch you are on. 
+
+git checkout tutorial-branching #switches branches - where tutorial-branches is your branch name. 
+
+git stash # Is used to stash changes that are not ready to be committed. Biggest rule in git is that your index must be clean before you swith branches. 
+
+git stash pop # Retreives that last thing that was stashed. 
