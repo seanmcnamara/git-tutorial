@@ -7,3 +7,17 @@
 $ git add .
 $ git commit -m 'Message here.'
 
+
+
+#Remote Workflow 
+1. Get the code the first time - git clone git@github.com:bdswasd/am.git
+
+2. Do Local work flow....
+  a. Change
+  b. Add 
+  c. Commit
+
+3. Get any changes from github. git pull 
+  a. resolve merge conflicts
+  
+4. Push changes to github. git push
